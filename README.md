@@ -2,7 +2,8 @@
 # About
 
 ## Education		        		
-B.S., Computer Science | University of Michigan - Ann Arbor (_August 2021 - Present_)
+B.S., Computer Science | University of Michigan - Ann Arbor 
+(_August 2021 - Present_)
 
 ## Work Experience
 **Software Engineering Intern @ Fannie Mae (_June 2023 - August 2023_)**
