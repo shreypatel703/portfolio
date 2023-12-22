@@ -1,11 +1,8 @@
-# Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+# About
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education		        		
+- B.S., Computer Science | University of Michigan - Ann Arboe (August 2021 - Present_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
