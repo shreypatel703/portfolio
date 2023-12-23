@@ -1,5 +1,6 @@
+Hi, I am Shrey! I am a Senior at University of Michigan studying Computer Science. If you want to get in touch, my email address is shreyp@umich.edu.
 
-# About
+For more information, check out my About Page.
 
 ## Education		        		
 B.S., Computer Science | University of Michigan - Ann Arbor \(_August 2021 - Present_)
